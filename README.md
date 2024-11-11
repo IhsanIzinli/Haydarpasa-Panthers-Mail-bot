@@ -29,6 +29,8 @@ dfsz örnek2@örnek.com
 ^^^^ bu yazılar kodu etkilemez
 
 
+kodu çalıştırmak için main.py'yi çalıştırın(not tüm txt ve pdf'i aynı klasörde tutun)
+
 Kodun mailleri bitirmesi yaklaşık "girdiğiniz mail sayısı çarpı 15" saniye sürecektir
 
 
