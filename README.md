@@ -7,6 +7,10 @@ abcd efgh ijkl mnop
 İsim
 Soyisim
 
+
+app passwordu https://myaccount.google.com/apppasswords'dan oluşturabilirsiniz
+
+
 Yollanacak Mailler.txt'ye "Mail/Şirket" şeklinde mail atılacak şirketleri giriniz
 
 Örnek:
